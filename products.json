@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Mandazi",
+        "description": "Fluffy Swahili doughnuts with a hint of coconut, perfect with tea or coffee.",
+        "price": 50,
+        "image": "mandazi.jpg",
+        "category": "pastry"
+    },
+    {
+        "id": 2,
+        "name": "Chapati",
+        "description": "Traditional Kenyan flatbread, soft and layered, made with whole wheat flour.",
+        "price": 40,
+        "image": "chapati.jpg",
+        "category": "bread"
+    },
+    {
+        "id": 3,
+        "name": "Mkate wa Sinzia",
+        "description": "Sweet coconut bread with a soft texture and aromatic coconut flavor.",
+        "price": 120,
+        "image": "mkate-wa-sinzia.jpg",
+        "category": "bread"
+    },
+    {
+        "id": 4,
+        "name": "Samosa",
+        "description": "Crispy pastry filled with spiced minced meat and vegetables.",
+        "price": 60,
+        "image": "samosa.jpg",
+        "category": "savory"
+    },
+    {
+        "id": 5,
+        "name": "Kebab",
+        "description": "Succulent grilled meat skewers marinated in traditional Swahili spices.",
+        "price": 150,
+        "image": "kebab.jpg",
+        "category": "savory"
+    },
+    {
+        "id": 6,
+        "name": "Mahamri",
+        "description": "Sweet cardamom-infused doughnuts, a coastal Kenyan favorite.",
+        "price": 60,
+        "image": "mandazi.jpg",
+        "category": "sweet"
+    },
+    {
+        "id": 7,
+        "name": "Viazi Karai",
+        "description": "Deep-fried potato cubes coated in a spiced batter, served with chili sauce.",
+        "price": 80,
+        "image": "samosa.jpg",
+        "category": "savory"
+    },
+    {
+        "id": 8,
+        "name": "Biscuits",
+        "description": "Homemade butter biscuits with a light, crumbly texture.",
+        "price": 30,
+        "image": "mkate-wa-sinzia.jpg",
+        "category": "sweet"
+    }
+]
